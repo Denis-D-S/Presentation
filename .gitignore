@@ -1,1 +1,10 @@
+Presentation.iml
+
 .idea
+*.iws
+*.iml
+*.ipr
+out/
+
+
+testeGitignore.txt
