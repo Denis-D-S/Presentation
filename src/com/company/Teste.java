@@ -1,5 +1,5 @@
 package com.company;
 
 public class Teste {
-    //codigo da master
+    //novo código da master
 }
